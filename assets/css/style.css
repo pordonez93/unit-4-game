@@ -1,0 +1,48 @@
+body{
+    background-image: url("../images/background.png");
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+}
+
+.header{
+    background: lightblue;
+}
+
+.main-body{
+    background: lightcoral;
+}
+p{
+    color: #777777;
+    line-height: 1.6;
+    font-size: 20px; 
+}
+
+.number-guessed{
+    background: lightseagreen;
+    margin: 10px;
+}
+#num-to-guess, #totalPoints{
+    font-size: 50px;
+}
+#wins, #losses{
+    font-size: 25px;
+}
+.scores{
+    background: lightgoldenrodyellow;
+    margin: 10px;
+}
+
+#crystal1, #crystal2, #crystal3, #crystal4 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid lightgray;
+}
+
+.title{
+    background: lavenderblush;
+}
+
+.total-guessed{
+    background: white;
+
+}
+
