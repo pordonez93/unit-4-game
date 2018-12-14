@@ -4,20 +4,20 @@ body{
 }
 
 .header{
-    background: lightblue;
+    background: #ff9999;
 }
 
 .main-body{
-    background: lightcoral;
+    background: #ffe680;
 }
+
 p{
-    color: #777777;
     line-height: 1.6;
     font-size: 20px; 
 }
 
 .number-guessed{
-    background: lightseagreen;
+    background: #00cc66;
     margin: 10px;
 }
 #num-to-guess, #totalPoints{
@@ -34,15 +34,14 @@ p{
 #crystal1, #crystal2, #crystal3, #crystal4 {
     width: 100px;
     height: 100px;
-    border: 1px solid lightgray;
 }
 
 .title{
-    background: lavenderblush;
+    background: #008080;
 }
 
 .total-guessed{
-    background: white;
-
+    background: #008080;
+    height: 150px;
 }
 
